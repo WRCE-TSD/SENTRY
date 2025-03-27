@@ -33,6 +33,21 @@ This project features a fully automated NERF turret with pan and tilt capabiliti
   - Laser pointer control
   - Button interface for manual firing
 
+# Version 2.3
+The current release on this site is 2.3.
+
+Working on version 3 which will include among other things:
+- Various fixes discovered after running these for one semester
+- Encoder integration on feed motor
+- ToF sensor for distance measuring
+- QRD1114's moved to flywheels for speed measurement
+- New optical sensors for counting/launch speed
+- More robust I2C integration
+- Better documentation/BOM
+
+Almost everything is done through Autodesk Fusion, which doesn't natively port to GitHub, so updates are not published regularly.
+
+
 ---
 # Contribution
 
