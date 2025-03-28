@@ -46,6 +46,7 @@ Working on version 3 which will include among other things:
 - Better documentation/BOM
 
 Almost everything is done through Autodesk Fusion, which doesn't natively port to GitHub, so updates are not published regularly.
+Edit 3/28/25: I made a [script to push Fusion F3D files to Github](https://github.com/zcohenld/FusionToGitHub) so I'll be pushing the newest version, which is untested until I do a release, to this GitHub.
 
 
 ---
