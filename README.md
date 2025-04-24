@@ -8,6 +8,9 @@ Welcome to the repository for the **SENTRY NERF Turret**, an advanced and intera
 
 This project features a fully automated NERF turret with pan and tilt capabilities, flywheel-based ball launching, and integrated sensors for precise control and monitoring. It leverages the power of MicroPython on a Raspberry Pi Pico and includes an array of sensors and actuators for a complete, interactive robotic experience.
 
+![alt text](https://github.com/zcohenld/SENTRY/blob/main/SENTRY%20Iso.png "Isometric View of SENTRY Gun")
+
+![alt text](https://github.com/zcohenld/SENTRY/blob/main/SENTRY%20Cross%20Section.png "Section View of SENTRY Gun")
 ---
 
 ## Key Features
