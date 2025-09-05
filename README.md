@@ -1,7 +1,7 @@
 # SENTRY NERF Turret Project
 
 Welcome to the repository for the **SENTRY NERF Turret**, an advanced and interactive project designed for educational purposes, robotics experimentation, and practical learning in robotics and control engineering.
-
+![alt text](https://github.com/zcohen-nerd/SENTRY/blob/main/1000007922.jpg "SENTRY Turret")
 ---
 
 ## Project Overview
